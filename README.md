@@ -16,4 +16,6 @@ var gitPush = "Envia alterações do repositório local para o repositório remo
 var gitPull = "Atualiza o repositório local com a versão do repositório remoto";
 var gitLog = "Verifica quais commits foram feitos";
 var gitRevert: "Desfaz commit";
+var git fetch origin;
+var git branch -a;
 ```
